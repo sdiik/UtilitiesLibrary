@@ -3,5 +3,7 @@
 
 
 public struct Utilities {
+    public init() {}
+    
     public var baseURL = "www.google.com"
 }
