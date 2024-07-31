@@ -3,5 +3,5 @@
 
 
 public struct Utilities {
-    var baseURL = "www.google.com"
+    public var baseURL = "www.google.com"
 }
