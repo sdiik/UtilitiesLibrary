@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'UtilitiesLibrary'
-  s.version      = '1.0.3'
+  s.version      = '1.0.4'
   s.summary      = 'A short description of UtilitiesLibrary.'
   s.description  = 'A more detailed description of UtilitiesLibrary.'
   s.homepage     = 'https://github.com/sdiik/UtilitiesLibrary'
